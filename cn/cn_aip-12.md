@@ -47,9 +47,9 @@ updated: 2023/01/26
 
 ## 三、提议
 
-我们可以创建一个对用户更加友好的多签账户标准，技术生态系统能在这个新标准的基础上扩展自己的功能。这包括两个主要组成部分：
+我们可以创建一个对用户更加友好的多签账户标准，技术生态系统能在这个新标准的基础上扩展自己的功能。这包括两个主要组成部分：	
 
-1. ==一个多签名账户模块主要负责以下几项内容：创建和管理多签名账户，以及生成、审批、拒绝和执行多签名账户的交易。默认情况下，执行功能（function）是私有的（private），仅允许特定人员操作：==
+1. <mark>一个多签名账户模块主要负责以下几项内容：创建和管理多签名账户，以及生成、审批、拒绝和执行多签名账户的交易。默认情况下，执行功能（function）是私有的（private），仅允许特定人员操作：</mark>
 
    > A multisig account module that governs creating/managing multisig accounts and creating/approving/rejecting/executing multisig account transactions. Execution function will be private by default and only executed by:
 
