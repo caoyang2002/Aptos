@@ -11,7 +11,7 @@ updated: 2023/01/23
 requires: "AIP-9: Resource Groups"
 ---
 
-# AIP-10 - Move 对象
+# AIP - 10 - Move 对象
 
 [TOC]
 

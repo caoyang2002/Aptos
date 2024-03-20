@@ -12,7 +12,7 @@ requires: "AIP-10: Move Objects"
 
 [TOC]
 
-# AIP-11 - 数字资产：作为对象的 Token 
+# AIP - 11 - 数字资产：作为对象的 Token 
 
 ## 一、概要
 
