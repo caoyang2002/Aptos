@@ -12,7 +12,7 @@ requires (*optional):
 ---
 
 
-# AIP 16 - 新密码学原生功能用于哈希和 MultiEd25519 PK 验证
+# AIP - 16 - 新密码学原生功能用于哈希和 MultiEd25519 PK 验证
 
 ## 摘要
 
